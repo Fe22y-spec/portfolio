@@ -220,6 +220,8 @@ body {
 .modal-content {
     width: 90%;
     max-width: 600px;
+    max-height: 90vh;
+    overflow-y:auto;
     padding: 40px;
     position: relative;
     transform: scale(0.8) translateY(50px);
