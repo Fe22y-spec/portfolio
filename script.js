@@ -30,7 +30,7 @@ const projectsData = {
 
 
         
-    },
+    }
 };
 
 function openProject(projectId) {
