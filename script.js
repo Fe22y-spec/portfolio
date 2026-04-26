@@ -21,6 +21,16 @@ const projectsData = {
         link: "https://github.com/Fe22y-spec/calculator-app"
     },
 
+    project4:{
+        title: "code to music",
+        tech: "Html,css and javascript",
+        why: "I wanted to practice HTML, CSS, and JavaScript by building something fun like music which i also like a lot",
+        features: "The Code to Music app features real-time playback controls, volume and tempo adjustment, multiple instrument options, a visualizer, and syntax highlighting that turns code into musical notes based on keywords and symbols.",
+        link:"https://fe22y-spec.github.io/code-to-music/"
+
+
+        
+    },
 };
 
 function openProject(projectId) {
